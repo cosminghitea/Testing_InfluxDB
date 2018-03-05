@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://cosminghitea:f7c8eb737c38e1d086f96820dc7c6760594864ca@github.com/cosminghitea/Testing_InfluxDB.git"
+    "url": "git+https://github.com/cosminghitea/Testing_InfluxDB.git"
   },
   "author": "Cosmin Ghitea",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cosminghitea/Testing_InfluxDB/issues"
   },
-  "homepage": "https://github.com/cosminghitea/Testing_InfluxDB#readme"
+  "homepage": "https://github.com/cosminghitea/Testing_InfluxDB#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "influx": "^5.0.7"
+  }
 }
