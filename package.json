@@ -1,0 +1,19 @@
+{
+  "name": "testing_influxdb",
+  "version": "1.0.0",
+  "description": "Testing the influxdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cosminghitea:f7c8eb737c38e1d086f96820dc7c6760594864ca@github.com/cosminghitea/Testing_InfluxDB.git"
+  },
+  "author": "Cosmin Ghitea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosminghitea/Testing_InfluxDB/issues"
+  },
+  "homepage": "https://github.com/cosminghitea/Testing_InfluxDB#readme"
+}
