@@ -1,6 +1,6 @@
 {
-  "username": "user",
+  "username": "admin",
   "password": "secret",
-  "host": "localhost",
-  "dataBase": "test"
+  "host": "10.16.0.163",
+  "dataBase": "telegraf"
 }
